@@ -1,0 +1,28 @@
+{
+  "name": "Aoijs v5",
+  "version": "1.0.0",
+  "description": "Boş Altyapı",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+  },
+  "engines": {
+    "node": ">=7.6.0",
+    "npm": ">=4.1.2"
+  },
+  "author": "DARKTEAM",
+  "license": "ISC",
+  "dependencies": {
+    "aoi.js": "^5.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gfg/gfg.git" //sample git repo url
+  },
+  "bugs": {
+    "url": "https://github.com/gfg/gfg/issues"
+  },
+  "homepage": "https://github.com/gfg/gfg#readme"
+}
